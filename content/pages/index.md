@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Scoop Up Innovation with Lazy Sundae Studios​
+    title: Small Apps. Big Ideas.
     subtitle: Fast. Functional. Surprisingly delightful.
     styles:
       self:
