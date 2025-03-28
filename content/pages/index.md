@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Scoop Up Innovation with Lazy Sundae Studios​
-    subtitle: Crafting lightweight mobile and web apps
+    subtitle: Fast. Functional. Surprisingly delightful.
     styles:
       self:
         height: auto
