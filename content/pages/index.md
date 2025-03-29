@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: '/images/ChatGPT Image Mar 28, 2025, 07_05_23 PM.png'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
